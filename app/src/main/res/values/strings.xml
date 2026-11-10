@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EstroCurve</string>
+    <string name="widget_live_data_name">EstroCurve Live</string>
+    <string name="widget_live_data_desc">Current E2 &amp; T hormone levels, elapsed/due time, and next injection rotation site.</string>
+    <string name="widget_graph_name">EstroCurve Dynamics</string>
+    <string name="widget_graph_desc">10-day pharmacokinetic superposition curve (-7d past + 3d forecast) with dual hormone curves.</string>
+</resources>

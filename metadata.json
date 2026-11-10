@@ -1,0 +1,6 @@
+{
+  "name": "EstroCurve",
+  "description": "HRT injection tracker & pharmacokinetic simulator for estradiol monotherapy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

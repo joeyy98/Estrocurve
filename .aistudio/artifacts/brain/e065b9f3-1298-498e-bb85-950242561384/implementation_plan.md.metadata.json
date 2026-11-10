@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to remove network and nearby devices permissions by commenting out unused network/Firebase dependencies and adding tools:node='remove' blocks in AndroidManifest.xml.",
+  "updatedAt":  "2026-11-10T16:20:57.830399365Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
